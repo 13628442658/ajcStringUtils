@@ -26,7 +26,7 @@ public class StringUtilsTest {
 	}
 	
 	/**
-	 * 测试isPhone
+	 * 测试isPhoneasd
 	 */
 	@Test
 	public void isPhone() {
